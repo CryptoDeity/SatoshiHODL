@@ -1,0 +1,67 @@
+body {
+background-color: lightGray;
+  font-family: Stencil Std, fantasy;
+
+
+}
+
+.p1{
+  background-color: orange;
+  border: 2px solid black;
+  width: 420px;
+  color: #625D5D;
+  padding: 10px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 42px;
+
+}
+
+  .p2{
+  width: 420px;
+  padding: 10px;
+  text-align: center;
+  text-decoration: underline;
+  color: #625D5D;
+  font-size: 25px;
+}
+.p3{
+
+width: 720px;
+padding: 10px;
+text-align: center;
+
+color: #625D5D;
+font-size: 40px;
+}
+
+.canvas1{
+border: 5px solid #f09f09;
+
+
+}
+
+.p1, .p2, .p3, .canvas1, .button1, img{
+  display: block;
+  margin: 0 auto;
+}
+
+.button1{
+  background-color: orange;
+  border: 2px solid black;
+  border-radius: 20px;
+  font-size: 20px;
+  color: white;
+  width: 175px;
+}
+
+.brrr{
+margin-top: 75px;
+width: 420px;
+
+
+}
+
+img {
+  margin-top:  20px;
+}
